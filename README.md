@@ -1,2 +1,6 @@
-# dataStructure-Algorithms
-java implementations of classic algorithms 
+#### dataStructure-Algorithms
+
+
+**Data Strucutres:**
+-   Arrays
+-   Dynamic Arrays
