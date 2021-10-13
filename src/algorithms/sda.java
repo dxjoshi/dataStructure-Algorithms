@@ -1,4 +1,4 @@
-package algorithms.maths;
+package algorithms;
 
 public class sda {
 }
