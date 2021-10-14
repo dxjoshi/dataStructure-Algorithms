@@ -1,4 +1,4 @@
-package datastructures.dynamicarray;
+package datastructures.DynamicArray;
 
 import org.junit.Test;
 

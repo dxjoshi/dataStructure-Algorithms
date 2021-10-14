@@ -1,4 +1,4 @@
-package datastructures.unionfind;
+package datastructures.UnionFind;
 
 public interface UnionFind {
     String name();

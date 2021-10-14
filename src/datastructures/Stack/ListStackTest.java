@@ -1,4 +1,4 @@
-package datastructures.stack;
+package datastructures.Stack;
 
 import org.junit.Before;
 import org.junit.Test;

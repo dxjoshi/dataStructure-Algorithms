@@ -1,4 +1,4 @@
-package datastructures.linkedlist;
+package datastructures.LinkedList;
 
 import org.junit.Before;
 import org.junit.Test;

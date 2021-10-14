@@ -1,7 +1,6 @@
-package datastructures.heap;
+package datastructures.Heap;
 
 import java.util.Comparator;
-import java.util.Map;
 import java.util.PriorityQueue;
 
 public class Heap {

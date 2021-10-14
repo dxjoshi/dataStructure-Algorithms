@@ -1,4 +1,4 @@
-package datastructures.suffixarray;
+package datastructures.SuffixArray;
 
 /*
 *

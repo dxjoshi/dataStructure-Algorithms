@@ -1,4 +1,4 @@
-package datastructures.unionfind;
+package datastructures.UnionFind;
 
 public class UnionFindSimple implements UnionFind {
 

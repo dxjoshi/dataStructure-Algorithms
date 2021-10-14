@@ -1,8 +1,7 @@
-package datastructures.dynamicarray;
+package datastructures.DynamicArray;
 
 import java.util.Arrays;
 import java.util.Iterator;
-import java.util.Objects;
 
 /*
 *  Generic Implementation of dynamic array
