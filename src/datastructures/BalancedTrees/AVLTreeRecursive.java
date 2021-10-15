@@ -351,4 +351,13 @@ public class AVLTreeRecursive<T extends Comparable<T>> implements Iterable<T> {
         if (node.right != null) isValid = isValid && node.right.value.compareTo(val) > 0;
         return isValid && validateBSTInvarient(node.left) && validateBSTInvarient(node.right);
     }
+
+    public static void main(String[] args) {
+        AVLTreeRecursive<Integer> avlTree = new AVLTreeRecursive<>();
+        avlTree.insert(1);
+        avlTree.insert(5);
+        avlTree.insert(11);
+        avlTree.insert(3);
+        System.out.println(avlTree);
+    }
 }
