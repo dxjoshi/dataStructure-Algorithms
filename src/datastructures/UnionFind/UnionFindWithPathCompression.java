@@ -1,5 +1,8 @@
 package datastructures.UnionFind;
 
+/*
+ * From Leetcode Graph learning cards
+ * */
 public class UnionFindWithPathCompression implements UnionFind{
 
     int[] root;

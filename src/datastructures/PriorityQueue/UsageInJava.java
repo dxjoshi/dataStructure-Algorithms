@@ -6,6 +6,7 @@ import java.util.PriorityQueue;
 public class UsageInJava {
     public static void main(String[] args) {
         // by default a min heap is created by the below collection
+        // Priority Queue element must always be comparable
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
         minHeap.add(1);
         minHeap.add(5);
