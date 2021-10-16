@@ -1,5 +1,9 @@
 package datastructures.UnionFind;
 
+/*
+*
+* William Fiset's implementation
+* */
 public class UnionFindTwo {
 
         // The number of elements in this union find
