@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ListStack<T> implements Iterable<T>, Stack<T> {
 
-    private List<T> list; java.util.Stack
+    private List<T> list;
 
     public ListStack() {
         this(null);
